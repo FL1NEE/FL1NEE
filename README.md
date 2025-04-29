@@ -2,7 +2,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-svg?logo=Telegram&logoColor=white&color=blue)](https://t.me/FL1NEE)
 
 # 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GO](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GO](https://img.shields.io/badge/go-3670A0?style=for-the-badge&logo=go) ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"=)
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=FL1NEE&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
