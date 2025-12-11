@@ -9,16 +9,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=FL1NEE&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-stREAK-stats.herokuapp.com/?user=FL1NEE&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=FL1NEE&theme=midnight-purple&hide_border=false&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/FL1NEE/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=FL1NEE&theme=midnight-purple&hide_border=false)
 
----
-
-![](https://visitcount.itsvg.in/api?id=FL1NEE&label=Profile%20Views&pretty=true)
-
-<!--
-**FL1NEE/FL1NEE** — персональный репозиторий, содержащий элементы профиля GitHub.
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&theme=midnight-purple&hide_border=false&layout=compact)
