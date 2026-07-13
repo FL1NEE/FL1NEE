@@ -45,14 +45,14 @@ class FL1NEE:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FL1NEE&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=CC0000&icon_color=CC0000&title_color=CC0000&text_color=ffffff&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&layout=compact&theme=dark&bg_color=0d0d0d&border_color=CC0000&title_color=CC0000&text_color=ffffff&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FL1NEE&show_icons=true&bg_color=0d0d0d&border_color=CC0000&icon_color=CC0000&title_color=CC0000&text_color=ffffff&count_private=true&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&layout=compact&bg_color=0d0d0d&border_color=CC0000&title_color=CC0000&text_color=ffffff&hide_border=false" height="180"/>
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=FL1NEE&theme=dark&background=0d0d0d&border=CC0000&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=CC0000&dates=888888)
+![](https://streak-stats.demolab.com/?user=FL1NEE&theme=dark&background=0d0d0d&border=CC0000&ring=CC0000&fire=FF4444&currStreakLabel=CC0000&sideLabels=CC0000&dates=888888)
 
 </div>
 
