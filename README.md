@@ -45,8 +45,8 @@ class FL1NEE:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FL1NEE&show_icons=true&bg_color=0d0d0d&border_color=CC0000&icon_color=CC0000&title_color=CC0000&text_color=ffffff&count_private=true&hide_border=false" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&layout=compact&bg_color=0d0d0d&border_color=CC0000&title_color=CC0000&text_color=ffffff&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FL1NEE&show_icons=true&bg_color=0d0d0d&border_color=CC0000&icon_color=CC0000&title_color=CC0000&text_color=ffffff&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FL1NEE&layout=compact&bg_color=0d0d0d&border_color=CC0000&title_color=CC0000&text_color=ffffff&langs_count=8" height="180"/>
 
 </div>
 
